@@ -6,7 +6,7 @@ This project is a python-based login monitoring system that analyzes login recor
 
 How to Run
 
-It is important to have Python installed on your device. Download this python file and open the file in IDEs like VSCode or terminal and run by using 
+It is important to have Python installed on the device. Download this python file and open the file in IDEs like VSCode or terminal and run by using 
 "python assignment_starter_login_monitor.py" command. 
 
 How busiest_hour() method works
