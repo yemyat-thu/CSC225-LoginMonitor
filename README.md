@@ -1,5 +1,4 @@
-
-Login Monitor 
+### Login Monitor ###
 
 Project Description 
 
@@ -13,4 +12,4 @@ It is important to have Python installed on your device. Download this python fi
 How busiest_hour() method works
 
 The timestamps are extracted from self.parsed_logs using a for loop. I split each timestamp at the space to separate the date from the time. Then, I use string slicing ([:2]) to get the first two characters of the time, which represent the hour. To count the login attempts, I create an empty dictionary called hour_counts and increase the count by 1 for each login attempt during that hour. If there are no records, the method returns None. Otherwise, I use max() to find the hour with the highest number of login attempts and store it in busiest_hour. Finally, the method returns a tuple containing the busiest hour and the total number of login attempts during that hour.
->>>>>>> e39a201 (Complete LoginMonitor assignment)
+
