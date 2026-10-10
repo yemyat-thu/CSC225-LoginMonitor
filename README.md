@@ -2,7 +2,7 @@
 
 Project Description 
 
-This project is a python-based login monitoring system that analyzes login records to track failed login attempts, suspcious IP addresses, and accounts with multiple failed login attempts. It also tracks users who connect from multiple IP addresses, determines the busiest hour for login activity. and genertate security alerts based on the results. 
+This project is a python-based login monitoring system that analyzes login records to track failed login attempts, suspcious IP addresses, and accounts with multiple failed login attempts. It also tracks users who connect from multiple IP addresses, determines the busiest hour for login activity. and generates security alerts based on the results. 
 
 How to Run
 
